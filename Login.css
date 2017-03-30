@@ -1,0 +1,30 @@
+.login{
+
+width:360px;
+border-radius:10px;
+margin:50px auto;
+padding:20px 40px 25px;
+color:blue;
+border:2px solid black;
+
+}
+input[type=text],input[type=password]{
+width:99%;
+padding:10px;
+border:1px;
+font-size:16px;
+font-family:aerial;
+background-color:yellow;
+color:green;
+}
+input[type=submit]{
+
+cursor:pointer;
+background-color:orange;
+text-align:center;
+border-radius:8px;
+border:solid black 2px;
+margin:10px auto;
+
+
+}
